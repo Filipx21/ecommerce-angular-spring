@@ -11,7 +11,7 @@ Simple shop with Spring Boot and Angular
 + Angular
 ### Built With ###
 + [Maven](https://maven.apache.org/) - Dependency Management
-+ [Okta] (https://www.okta.com/) - Security Service
++ [Okta](https://www.okta.com/) - Security Service
 ### Prerequisites ###
 + JDK11
 + Node
