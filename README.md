@@ -1,5 +1,5 @@
 ## E-Commerce Application ##
-The application is used to store resources.
+Simple shop with Spring Boot and Angular
 
 ### Contents ###
 * [Technologies](#technologies)
