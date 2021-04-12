@@ -14,6 +14,7 @@ Simple shop with Spring Boot and Angular
 + [Okta] (https://www.okta.com/) - Security Service
 ### Prerequisites ###
 + JDK11
++ Node
 ### Running the Web Application ###
 You can run the web application by using the following command:
 ```
