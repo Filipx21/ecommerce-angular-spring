@@ -15,6 +15,7 @@ Simple shop with Spring Boot and Angular
 ### Prerequisites ###
 + JDK11
 + Node
++ angular/cli: 11.2.8
 ### Running the Web Application ###
 You can run the web application by using the following command:
 ```
